@@ -1,6 +1,6 @@
 # Sales-Insights-Power-BI-Project
 
-# Business Tasks
+## Business Tasks
 
 1) Find the year wise Total Revenue and Total Sales.
 2) Plot a graph showing year wise Revenue Trend.
@@ -11,6 +11,6 @@
 7) Analyze the year wise Revenue Contibution %, Profit Margin % and Profit Contribution % for Zones.
 
 
-# Tools Used 
+## Tool Used 
 
  Power BI Desktop
